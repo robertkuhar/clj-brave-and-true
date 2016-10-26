@@ -1,37 +1,9 @@
 # clj-brave-and-true
 
-FIXME: description
+Repo supporting the Clojure Book Club TCC Autumn 2016.
+We will work our way through "Clojure for the Brave and True"
+by Daniel Higginbotham http://www.braveclojure.com/clojure-for-the-brave-and-true/
 
-## Installation
+## Build
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar clj-brave-and-true-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
-# clj-brave-and-true
+    lein do clean, deps, compile, test
