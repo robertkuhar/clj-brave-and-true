@@ -12,8 +12,8 @@ http://www.braveclojure.com/clojure-for-the-brave-and-true/
 
 # Tentative Schedule
 
-| Date | Chapter | Moderator |
-|------|---------|-----------|
+| Date    | Chapter | Moderator |
+|---------|---------|-----------|
 |Fri, Oct 28|Kick off|BobK|
 |Fri, Nov 04|Ch03: Do Things: A Clojure Crash Course (36 pages)|BobK|
 |Fri, Nov 11|Ch04: Core Functions In Depth (26 pages)|???|
