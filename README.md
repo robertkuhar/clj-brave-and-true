@@ -45,4 +45,3 @@ http://www.braveclojure.com/clojure-for-the-brave-and-true/
 |Fri, Feb 03|Ch13: Creating and Extending Abstractions with Multimethods, Protocols, and Records (12 pages)|???|
 |------|---------|-----------|
 |Fri, Feb 10|Appendix A:  Building and Developing with Leiningen (4 pages)|???|
-|------|---------|-----------|
