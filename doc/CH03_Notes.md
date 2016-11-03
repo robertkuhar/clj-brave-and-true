@@ -7,6 +7,8 @@ http://www.braveclojure.com/do-things/
 `(doc xxx)` is useful in a REPL to get the docs (p 51).  Another really useful resource is
 https://clojuredocs.org/clojure.core/apply which is the docstring along with examples!
 
+`(source xxx)` is useful too if you want to see the source of a function.
+
 ### Leading Questions
 
 * Then a clojure guy tells you to map over a collection, what's he saying? (p 49)
