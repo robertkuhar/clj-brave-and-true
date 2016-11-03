@@ -1,7 +1,8 @@
 (defproject clj-brave-and-true "0.1.0-SNAPSHOT"
   :description "Clojure for the Brave and True"
 
-  :dependencies [[org.clojure/clojure "1.8.0"]]
+  :dependencies [[org.clojure/clojure "1.8.0"]
+                 [org.clojure/tools.logging "0.3.1"]]
 
   :main ^:skip-aot clj-brave-and-true.core
 
