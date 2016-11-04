@@ -28,6 +28,6 @@ things.
 * Destructuring.  Do you get it? (p54)
   * My "aha" moment is encapsulated in his quote "...bind names to values within a collection."
 * The "hash literals" are a little out of hand, no?
-  ** What is `#{`?  Does an example help? `#{:a :b}`
-  ** What is `#(`?  Does an example help? `#(* % %)`
-  ** What is `#"`?  Does an example help? `#"^left-"`
+  * What is `#{`?  Does an example help? `#{:a :b}`
+  * What is `#(`?  Does an example help? `#(* % %)`
+  * What is `#"`?  Does an example help? `#"^left-"`
