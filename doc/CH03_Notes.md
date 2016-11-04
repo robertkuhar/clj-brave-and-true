@@ -21,13 +21,12 @@ things.
     * What other languages have them?
     * Is this [common usage of Java Interfaces](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html#sort(java.util.List,%20java.util.Comparator)) the moral equivalent of higher order functions in Java?
 * What makes Macro Calls and Special Forms "special"?  (p 50)
-* What are the 3 different ways to define a function?
-  * (defn "doc string" [args list] body)
-  * (fn [args list] body)
-  * #(body %1 %2)
+* What are the 3 different ways to define a function? (p 51, p 56)
+  * Defining a function.  Def a Fun.  Defn...p 51
+  * The other 2 are called "anonymous" on p 56
 * Destructuring.  Do you get it? (p54)
   * My "aha" moment is encapsulated in his quote "...bind names to values within a collection."
-* The "hash literals" are a little out of hand, no?
+* The "hash literals" are a little out of hand by p 62, no?
   * What is `#{`?  Does an example help? `#{:a :b}`
   * What is `#(`?  Does an example help? `#(* % %)`
   * What is `#"`?  Does an example help? `#"^left-"`
