@@ -19,7 +19,7 @@ things.
   * What are they?
   * Are they really unique to Lisp(s)?
     * What other languages have them?
-    * Is this [common usage of Java Interfaces](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html#sort(java.util.List,%20java.util.Comparator)) the moral equivalent of higher order functions in Java?
+    * Is Java's [java.util.Collections.sort(List list, Comparator c)](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html#sort(java.util.List,%20java.util.Comparator)) the moral equivalent of higher order functions in Java?
 * What makes Macro Calls and Special Forms "special"?  (p 50)
 * What are the 3 different ways to define a function? (p 51, p 56)
   * Defining a function.  Def a Fun.  Defn...p 51
