@@ -9,6 +9,9 @@ https://clojuredocs.org/clojure.core/apply which is the docstring along with exa
 
 `(source xxx)` is useful too if you want to see the source of a function.
 
+Also "Clojure Cheetsheet" http://clojure.org/api/cheatsheet for figuring out all the strange literal
+things.
+
 ### Leading Questions
 
 * Then a clojure guy tells you to map over a collection, what's he saying? (p 49)
@@ -19,5 +22,12 @@ https://clojuredocs.org/clojure.core/apply which is the docstring along with exa
     * Is this [common usage of Java Interfaces](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html#sort(java.util.List,%20java.util.Comparator)) the moral equivalent of higher order functions in Java?
 * What makes Macro Calls and Special Forms "special"?  (p 50)
 * What are the 3 different ways to define a function?
+  * (defn "doc string" [args list] body)
+  * (fn [args list] body)
+  * #(body %1 %2)
 * Destructuring.  Do you get it? (p54)
   * My "aha" moment is encapsulated in his quote "...bind names to values within a collection."
+* The "hash literals" are a little out of hand, no?
+  ** What is `#{`?  Does an example help? `#{:a :b}`
+  ** What is `#(`?  Does an example help? `#(* % %)`
+  ** What is `#"`?  Does an example help? `#"^left-"`
