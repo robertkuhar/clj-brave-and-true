@@ -10,6 +10,12 @@ http://www.braveclojure.com/clojure-for-the-brave-and-true/
 
     lein do clean, deps, compile, test
 
+### Running through lein
+
+These mains in this project can be executed from lein through the `with-profile` capability like...
+
+    $ lein with-profile the-devine-cheese run
+
 # Tentative Schedule
 
 | Date    | Chapter | Moderator |
