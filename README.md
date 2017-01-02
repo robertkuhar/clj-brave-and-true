@@ -40,3 +40,4 @@ These mains in this project can be executed from lein through the `with-profile`
 |Fri, Feb 24|Ch12: Working with the JVM (18 pages)|???|
 |Fri, Mar 03|Ch13: Creating and Extending Abstractions with Multimethods, Protocols, and Records (12 pages)|???|
 |Fri, Mar 10|Appendix A:  Building and Developing with Leiningen (4 pages)|???|
+
