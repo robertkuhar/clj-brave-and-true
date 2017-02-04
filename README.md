@@ -36,7 +36,7 @@ These mains in this project can be executed from lein through the `with-profile`
 |Fri, Jan 27|Ch07: Clojure Alchemy: Reading, Evaluation, and Macros (18 pages)|BobK|
 |Fri, Feb 03|Ch08: Writing Macros (22 pages)|Mikhail|
 |Fri, Feb 10|SEA Curling Outing||
-|Fri, Feb 17|Ch09: The Sacred Art of Concurrent and Parallel Programming (18 pages)|???|
+|Fri, Feb 17|Ch09: The Sacred Art of Concurrent and Parallel Programming (18 pages)|Esma|
 |Fri, Feb 24|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies (25 pages)|???|
 |Fri, Mar 03|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies 2nd session|??|
 |Fri, Mar 10|Ch11: Mastering Concurrent Processes with core.async (14 pages)|???|
