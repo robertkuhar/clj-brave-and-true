@@ -36,10 +36,11 @@ These mains in this project can be executed from lein through the `with-profile`
 |Fri, Jan 27|Ch07: Clojure Alchemy: Reading, Evaluation, and Macros (18 pages)|BobK|
 |Fri, Feb 03|Ch08: Writing Macros (22 pages)|Mikhail|
 |Fri, Feb 10|SEA Curling Outing||
-|Fri, Feb 17|Ch09: The Sacred Art of Concurrent and Parallel Programming (18 pages)|Esma|
-|Fri, Feb 24|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies (25 pages)|???|
-|Fri, Mar 03|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies 2nd session|??|
-|Fri, Mar 10|Ch11: Mastering Concurrent Processes with core.async (14 pages)|???|
-|Fri, Mar 17|Ch12: Working with the JVM (18 pages)|???|
-|Fri, Mar 24|Ch13: Creating and Extending Abstractions with Multimethods, Protocols, and Records (12 pages)|???|
+|Fri, Feb 17|Bob out of office||
+|Fri, Feb 24|Ch09: The Sacred Art of Concurrent and Parallel Programming (18 pages)|Esma|
+|Fri, Mar 03|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies (25 pages)|???|
+|Fri, Mar 10|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies 2nd session|??|
+|Fri, Mar 17|Ch11: Mastering Concurrent Processes with core.async (14 pages)|???|
+|Fri, Mar 24|Ch12: Working with the JVM (18 pages)|???|
+|Fri, Mar 31|Ch13: Creating and Extending Abstractions with Multimethods, Protocols, and Records (12 pages)|???|
 |Fri, Mar 31|Appendix A:  Building and Developing with Leiningen (4 pages)|???|
