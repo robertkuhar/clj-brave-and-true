@@ -38,9 +38,10 @@ These mains in this project can be executed from lein through the `with-profile`
 |Fri, Feb 10|SEA Curling Outing||
 |Fri, Feb 17|Bob out of office||
 |Fri, Feb 24|Ch09: The Sacred Art of Concurrent and Parallel Programming (18 pages)|Esma|
-|Fri, Mar 03|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies (25 pages)|???|
-|Fri, Mar 10|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies 2nd session|??|
-|Fri, Mar 17|Ch11: Mastering Concurrent Processes with core.async (14 pages)|???|
-|Fri, Mar 24|Ch12: Working with the JVM (18 pages)|???|
-|Fri, Mar 31|Ch13: Creating and Extending Abstractions with Multimethods, Protocols, and Records (12 pages)|???|
-|Fri, Mar 31|Appendix A:  Building and Developing with Leiningen (4 pages)|???|
+|Fri, Mar 03|Bob out of office||
+|Fri, Mar 10|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies (25 pages)|???|
+|Fri, Mar 17|Ch10: Clojure Metaphysics:  Atoms, Refs, Vars, and Cuddle Zombies 2nd session|??|
+|Fri, Mar 24|Ch11: Mastering Concurrent Processes with core.async (14 pages)|???|
+|Fri, Mar 31|Ch12: Working with the JVM (18 pages)|???|
+|Fri, Apr 07|Ch13: Creating and Extending Abstractions with Multimethods, Protocols, and Records (12 pages)|???|
+|Fri, Apr 07|Appendix A:  Building and Developing with Leiningen (4 pages)|???|
