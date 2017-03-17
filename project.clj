@@ -2,6 +2,7 @@
   :description "Clojure for the Brave and True"
 
   :dependencies [[org.clojure/clojure "1.8.0"]
+                 [org.clojure/core.async "0.3.441"]
                  [org.clojure/tools.logging "0.3.1"]
                  [pegthing/pegthing "0.1.0-SNAPSHOT"]]
 
